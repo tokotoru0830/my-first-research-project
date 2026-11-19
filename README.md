@@ -15,3 +15,11 @@ I am a clinical medicine student interested in biomedical research.
 1. Learn Git and GitHub
 2. Manage research projects
 3. Learn Python for scientific data analysis
+
+## GitHub Learning Progress
+
+- [x] Create my first repository
+- [x] Edit README.md
+- [x] Make my first commit
+- [ ] Learn Git branches
+- [ ] Learn GitHub collaboration
