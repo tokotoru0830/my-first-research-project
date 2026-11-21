@@ -13,3 +13,12 @@ This folder contains my research notes.
 - [x] Read relevant papers
 - [ ] Organize research data
 - [ ] Learn Python for data analysis
+
+## Git Learning Notes
+
+Today I learned about:
+- Working Directory
+- Staging Area
+- Local Repository
+- Git Commit
+- Git Push
