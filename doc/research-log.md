@@ -7,8 +7,9 @@ This folder contains my research notes.
 - Silk fibroin biomaterials
 - Corneal wound healing
 - Bioinformatics
+- Mitochondrial dynamics
 
 ## To-Do
-- [ ] Read relevant papers
+- [x] Read relevant papers
 - [ ] Organize research data
 - [ ] Learn Python for data analysis
